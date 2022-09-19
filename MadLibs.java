@@ -56,7 +56,7 @@ public class MadLibs
         
         System.out.println("Our school has really " + adj1 + " food.");
         System.out.println("just thinking about it makes my stomach " + vb1 + ".");
-        System.out.println("The spaghetti is " + adj2 + " and tastes like " + noun1 + ".");
+        System.out.println("The spaghetti is " + adj2 + " and tastes like a " + noun1 + ".");
         System.out.println("One day, I swear one of my meatballs started to " + vb2 + "!");
         System.out.println("The turkey tacos are totally " + adj3 + " and look kind of like old " + noun2 + ".");
         System.out.println("My friend Dana actually likes the meatloaf even though it's " + adj4 + " and " + adj5 + ".");
